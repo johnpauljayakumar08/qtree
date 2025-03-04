@@ -1,0 +1,66 @@
+/* h1{
+    background-color: aquamarine;
+    color: red;
+}
+
+.para1{
+    font-size: 30px;
+    color:green
+}
+.paracolor{
+    color: brown;
+
+}
+#para1{
+    font-size: 100px;
+}
+
+
+.maindiv{
+    background-color: aqua;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+div > p{
+    color: red;
+}
+.selemaindiv{
+    background-color: black;
+    border: 1px solid rebeccapurple;
+}
+.submaindiv{
+    background-color: yellow;
+    border: 1px solid rebeccapurple;
+} */
+
+.maindiv{
+    background-color: blue;
+    height: 100%;
+    color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    /* border-radius: 10%; */
+    border-collapse:collapse ;
+    /* border: 1px solid orange; */
+    font-family: Algerian;
+    font-size: 20px;
+    font-weight: 800;
+    font-style: italic;
+    text-align: justify;
+    font-variant: small-caps;
+   text-transform: capitalize;
+
+  
+}
+.mainp{
+    text-transform:capitalize;
+
+}
+.seconddiv{
+    background-color: blue;
+    height: 100%;
+    color: white;
+}
